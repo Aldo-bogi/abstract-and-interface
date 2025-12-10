@@ -6,7 +6,7 @@ package pkginterface;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public abstract class BangunDatar {
     
@@ -14,4 +14,5 @@ public abstract class BangunDatar {
  public abstract void hitungLuas();
  public abstract void hitungKeliling();
 }
+
 
