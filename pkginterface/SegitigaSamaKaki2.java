@@ -6,7 +6,7 @@ package pkginterface;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
     public class SegitigaSamaKaki extends BangunDatar implements Resizeable{
  public int alas, tinggi;
@@ -36,4 +36,5 @@ package pkginterface;
   this.tinggi = this.tinggi / 2;
  }
 }
+
 
