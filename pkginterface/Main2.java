@@ -6,7 +6,7 @@ package pkginterface;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
     public class Main {
  public static void main(String[] argv) {
@@ -29,4 +29,5 @@ package pkginterface;
   // Keliling setelah diperbesar = 80.0
  }
 }
+
 
