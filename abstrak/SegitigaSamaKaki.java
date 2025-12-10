@@ -6,7 +6,7 @@ package abstrak;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public abstract class SegitigaSamaKaki extends BangunDatar{
     public int alas,tinggi;
@@ -26,4 +26,5 @@ public abstract class SegitigaSamaKaki extends BangunDatar{
     }
     
 }
+
 
