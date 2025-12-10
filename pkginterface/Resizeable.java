@@ -6,7 +6,7 @@ package pkginterface;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public  interface Resizeable  { 
  public void perbesar();
@@ -16,3 +16,4 @@ public  interface Resizeable  {
     
     
 }
+
