@@ -5,7 +5,7 @@
 package abstrak;
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public  class Main {
     public static void main(String[]argv){
@@ -18,3 +18,4 @@ public  class Main {
         System.out.println("Keliling STSK = "+stsk.keliling);
     }
 }
+
