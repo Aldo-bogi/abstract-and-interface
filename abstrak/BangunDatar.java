@@ -6,7 +6,7 @@ package abstrak;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public abstract class BangunDatar {
     public double luas,keliling;
@@ -15,3 +15,4 @@ public abstract class BangunDatar {
     public abstract void hitungKeliling();
 
 }
+
