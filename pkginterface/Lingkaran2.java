@@ -6,7 +6,7 @@ package pkginterface;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
     public class Lingkaran extends BangunDatar implements Resizeable{
  public int jariJari;
@@ -31,4 +31,5 @@ package pkginterface;
   this.jariJari = (int) (0.5 * this.jariJari);
  }
 }
+
 
