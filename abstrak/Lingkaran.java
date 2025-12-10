@@ -6,7 +6,7 @@ package abstrak;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public abstract class Lingkaran extends BangunDatar{
     public int jariJari;
@@ -21,3 +21,4 @@ public abstract class Lingkaran extends BangunDatar{
         this.keliling = 2*Math.PI*jariJari;
     }
 }
+
