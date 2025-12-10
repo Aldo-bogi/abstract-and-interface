@@ -6,7 +6,7 @@ package abstrak;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public abstract class SegiEmpat extends BangunDatar {
     public int panjang,lebar;
@@ -20,3 +20,4 @@ public abstract class SegiEmpat extends BangunDatar {
         this.keliling = (2*panjang) +2*lebar;
     }
 }
+
