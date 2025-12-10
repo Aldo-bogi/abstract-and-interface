@@ -6,7 +6,7 @@ package pkginterface;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
  public class SegiEmpat extends BangunDatar implements Resizeable{
  public int panjang,lebar;
@@ -33,4 +33,5 @@ package pkginterface;
   this.lebar = this.lebar / 2;
  }
 }
+
 
